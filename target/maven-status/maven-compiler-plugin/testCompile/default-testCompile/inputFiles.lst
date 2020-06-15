@@ -1,0 +1,12 @@
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/pages/AddMembership.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/utils/CommonMethods.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/testbase/PageInitializer.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/pages/QualificationsPage.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/steps/Hooks.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/testbase/BaseClass.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/utils/ConfigsReader.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/utils/Constants.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/runners/TestRunners.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/pages/LoginPageElements.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/steps/AddMembershipSteps.java
+/Users/agamselbi/eclipse-workspace/DallasTX/src/test/java/com/dallastx/steps/AddMembershipAnyEmployeeSteps.java
